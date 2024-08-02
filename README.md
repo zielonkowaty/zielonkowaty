@@ -1,4 +1,4 @@
-Contact Me ✉️:
+<br>Contact Me ✉️:</br>
 <li>contact@zielonkowaty.pl</li>
 <li>@zielonkowaty on Discord</li>
 
