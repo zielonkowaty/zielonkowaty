@@ -1,4 +1,6 @@
-## Hi there 👋
+Contact Me ✉️:
+<li>contact@zielonkowaty.pl</li>
+<li>@zielonkowaty on Discord</li>
 
 <!--
 **zielonkowaty/zielonkowaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
