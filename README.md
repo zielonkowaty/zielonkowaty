@@ -1,5 +1,5 @@
 <h1>Contact Me ✉️:</h1>
-<li><a href="mailto:mail@zielonkowaty.pl">contact@zielonkowaty.pl</a></li>
+<li><a href="mailto:mail@zielonkowaty.pl">mail@zielonkowaty.pl</a></li>
 <li>@zielonkowaty on Discord</li>
 
 <!--
